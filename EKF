@@ -1,0 +1,3 @@
+We will be implementing an Extended Kalman Filter. 
+
+state = [yk, ]
